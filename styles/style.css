@@ -1,0 +1,44 @@
+/* body related styles */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: work sans;
+}
+
+/* common styles */
+
+.primary-btn {
+  color: #0288c2;
+  padding: 15px;
+  font-weight: 700;
+  border: none;
+  border-radius: 5px;
+}
+
+/* header related styles */
+header {
+  background-image: url("../images/banner/banner3.png");
+
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 216px 100px 200px 800px;
+}
+
+.header-section {
+  text-align: right;
+  width: 250px;
+}
+
+.header-title,
+.header-description {
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.header-title {
+  font-size: 36px;
+}
+
+.header-description {
+  font-size: 14px;
+}
