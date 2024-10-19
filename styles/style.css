@@ -139,3 +139,50 @@ span {
 }
 
 /* footer related styles */
+.footer-section {
+  display: flex;
+  background-color: black;
+  color: #fff;
+  padding: 100px 240px;
+  gap: 320px;
+}
+
+.footer-item-title {
+  font-size: 30px;
+}
+
+.footer-item-title-two {
+  font-size: 16px;
+}
+
+.footer-column-item p {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 200;
+}
+
+.footer-column-item .mar-bottom {
+  margin-bottom: 20px;
+}
+
+.social-links a img {
+  width: 40px;
+  margin: 0px 5px;
+}
+
+.footer-email {
+  color: white;
+  font-weight: 600;
+  width: 220px;
+  height: 5px;
+  padding: 18px;
+  border-radius: 5px;
+  border: 1px solid #fff;
+  background-color: black;
+}
+
+.sub-btn {
+  background-color: #0288c2;
+  color: #fff;
+  padding: 16px 36px;
+}
