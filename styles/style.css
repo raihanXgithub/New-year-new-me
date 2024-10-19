@@ -6,7 +6,6 @@
 }
 
 /* common styles */
-
 .primary-btn {
   color: #0288c2;
   padding: 15px;
@@ -138,3 +137,5 @@ span {
   width: 300px;
   margin-bottom: 20px;
 }
+
+/* footer related styles */
