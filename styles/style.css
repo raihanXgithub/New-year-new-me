@@ -90,3 +90,34 @@ span {
   font-weight: bolder;
   margin-right: 3px;
 }
+
+/* plan section related styles */
+
+.plan-title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.plan-list {
+  display: flex;
+  gap: 130px;
+  text-align: center;
+}
+
+.plan-list .plan-list-box img {
+  width: 70px;
+}
+
+.plan-list .plan-list-box img,
+.plan-list-title {
+  margin-bottom: 10px;
+}
+
+.plan-list-title {
+  font-size: 16px;
+}
+
+.plan-list-action {
+  font-size: 14px;
+  color: #858383;
+}
